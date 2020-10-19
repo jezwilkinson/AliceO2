@@ -1,0 +1,30 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/AnalysisDataModelHelpers.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/AnalysisDataModelHelpers.h">
+<area shape="rect" id="node2" href="$d2/d8c/AnalysisDataModel_8h.html" title="Framework/AnalysisDataModel.h" alt="" coords="3996,124,4231,151"/>
+<area shape="rect" id="node63" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="3801,348,3970,375"/>
+<area shape="rect" id="node3" href="$de/d33/ASoA_8h.html" title="Framework/ASoA.h" alt="" coords="1720,199,1864,225"/>
+<area shape="rect" id="node53" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="3683,199,3814,225"/>
+<area shape="rect" id="node62" href="$d2/d12/DataTypes_8h.html" title="Framework/DataTypes.h" alt="" coords="4174,691,4352,717"/>
+<area shape="rect" id="node4" href="$dd/dce/Pack_8h.html" title="Framework/Pack.h" alt="" coords="3128,348,3268,375"/>
+<area shape="rect" id="node8" href="$d1/d00/CheckTypes_8h.html" title="Framework/CheckTypes.h" alt="" coords="192,348,379,375"/>
+<area shape="rect" id="node9" href="$de/d9b/FunctionalHelpers_8h.html" title="Framework/FunctionalHelpers.h" alt="" coords="3178,273,3404,300"/>
+<area shape="rect" id="node11" href="$d9/de8/CompilerBuiltins_8h.html" title="Framework/CompilerBuiltins.h" alt="" coords="403,348,622,375"/>
+<area shape="rect" id="node12" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="198,519,344,546"/>
+<area shape="rect" id="node14" href="$d0/d91/Expressions_8h.html" title="Framework/Expressions.h" alt="" coords="1698,273,1886,300"/>
+<area shape="rect" id="node19" href="$d1/d76/RuntimeError_8h.html" title="Framework/RuntimeError.h" alt="" coords="1619,765,1814,792"/>
+<area shape="rect" id="node49" href="$d4/de7/ArrowTypes_8h.html" title="Framework/ArrowTypes.h" alt="" coords="458,273,644,300"/>
+<area shape="rect" id="node15" href="$dd/dc2/BasicOps_8h.html" title="Framework/BasicOps.h" alt="" coords="1851,348,2022,375"/>
+<area shape="rect" id="node16" href="$d9/dff/Configurable_8h.html" title="Framework/Configurable.h" alt="" coords="2447,691,2639,717"/>
+<area shape="rect" id="node18" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="1318,691,1474,717"/>
+<area shape="rect" id="node26" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="2313,348,2496,375"/>
+<area shape="rect" id="node27" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="2046,348,2288,375"/>
+<area shape="rect" id="node36" href="$da/d88/RootConfigParamHelpers_8h.html" title="Framework/RootConfigParam\lHelpers.h" alt="" coords="1478,512,1688,553"/>
+<area shape="rect" id="node28" href="$df/d72/ParamRetriever_8h.html" title="Framework/ParamRetriever.h" alt="" coords="2061,519,2270,546"/>
+<area shape="rect" id="node32" href="$dd/daf/ConfigParamStore_8h.html" title="Framework/ConfigParamStore.h" alt="" coords="1903,430,2130,457"/>
+<area shape="rect" id="node29" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="1762,609,1985,635"/>
+<area shape="rect" id="node56" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="3402,348,3545,375"/>
+<area shape="rect" id="node59" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="3509,273,3662,300"/>
+<area shape="rect" id="node61" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3818,273,4076,300"/>
+<area shape="rect" id="node57" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="3132,430,3330,457"/>
+<area shape="rect" id="node58" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="3354,430,3519,457"/>
+<area shape="rect" id="node66" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="3754,430,3948,457"/>
+</map>

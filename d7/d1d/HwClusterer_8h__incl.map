@@ -1,0 +1,29 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/include/TPCReconstruction/HwClusterer.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/include/TPCReconstruction/HwClusterer.h">
+<area shape="rect" id="node3" href="$db/db1/TPC_2reconstruction_2include_2TPCReconstruction_2Clusterer_8h.html" title="TPCReconstruction/Clusterer.h" alt="" coords="1909,139,2126,165"/>
+<area shape="rect" id="node6" href="$d1/da6/ConstMCTruthContainer_8h.html" title="A const (ready only) version of MCTruthContainer. " alt="" coords="2041,213,2231,255"/>
+<area shape="rect" id="node17" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2731,213,2901,255"/>
+<area shape="rect" id="node55" href="$d9/d7c/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Helpers_8h.html" title="DataFormatsTPC/Helpers.h" alt="" coords="2323,221,2520,247"/>
+<area shape="rect" id="node18" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1140,221,1279,247"/>
+<area shape="rect" id="node7" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2157,303,2326,344"/>
+<area shape="rect" id="node16" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="1935,310,2081,337"/>
+<area shape="rect" id="node8" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2733,392,2899,419"/>
+<area shape="rect" id="node20" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="646,765,823,792"/>
+<area shape="rect" id="node34" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="978,392,1121,419"/>
+<area shape="rect" id="node39" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="394,691,529,717"/>
+<area shape="rect" id="node42" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="524,616,647,643"/>
+<area shape="rect" id="node48" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1247,310,1396,337"/>
+<area shape="rect" id="node52" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="291,310,445,337"/>
+<area shape="rect" id="node22" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="511,840,697,867"/>
+<area shape="rect" id="node23" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="154,922,334,949"/>
+<area shape="rect" id="node26" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1138,840,1318,867"/>
+<area shape="rect" id="node37" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1043,616,1184,643"/>
+<area shape="rect" id="node38" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="666,541,830,568"/>
+<area shape="rect" id="node41" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="906,541,1075,568"/>
+<area shape="rect" id="node43" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="849,467,999,493"/>
+<area shape="rect" id="node45" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1503,691,1647,717"/>
+<area shape="rect" id="node46" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1124,467,1311,493"/>
+<area shape="rect" id="node47" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="650,467,825,493"/>
+<area shape="rect" id="node40" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="355,765,567,792"/>
+<area shape="rect" id="node44" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="468,541,591,568"/>
+<area shape="rect" id="node56" href="$d3/dc4/ClusterHardware_8h.html" title="Class of a TPC cluster as produced by the hardware cluster finder (needs a postprocessing step to con..." alt="" coords="2351,310,2607,337"/>
+</map>

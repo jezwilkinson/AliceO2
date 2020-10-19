@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Utilities/DataSampling/test/test_DataSamplingPolicy.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Utilities/DataSampling/test/test_DataSamplingPolicy.cxx">
+<area shape="rect" id="node4" href="$d2/d1b/DataSamplingPolicy_8h.html" title="A declaration of O2 Data Sampling Policy. " alt="" coords="1179,124,1390,165"/>
+<area shape="rect" id="node20" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="783,481,981,523"/>
+<area shape="rect" id="node51" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="5,310,167,337"/>
+<area shape="rect" id="node5" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1373,571,1543,597"/>
+<area shape="rect" id="node16" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="1013,310,1188,337"/>
+<area shape="rect" id="node48" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="1882,310,2037,337"/>
+<area shape="rect" id="node49" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="1413,310,1599,337"/>
+<area shape="rect" id="node50" href="$dd/dcf/DataSamplingCondition_8h.html" title="A standarised data sampling condition, to decide if given data sample should be passed forward..." alt="" coords="463,213,674,255"/>
+<area shape="rect" id="node53" href="$d6/d68/DataSpecUtils_8h.html" title="Framework/DataSpecUtils.h" alt="" coords="1719,221,1922,247"/>
+<area shape="rect" id="node14" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1803,653,1998,679"/>
+<area shape="rect" id="node17" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="1379,399,1543,426"/>
+<area shape="rect" id="node18" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="1455,489,1706,515"/>
+<area shape="rect" id="node19" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="1003,392,1199,433"/>
+<area shape="rect" id="node42" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="292,489,515,515"/>
+<area shape="rect" id="node23" href="$d1/d76/RuntimeError_8h.html" title="Framework/RuntimeError.h" alt="" coords="602,653,797,679"/>
+<area shape="rect" id="node24" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="1933,489,2061,515"/>
+<area shape="rect" id="node25" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="2281,571,2557,597"/>
+<area shape="rect" id="node43" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="501,571,657,597"/>
+</map>

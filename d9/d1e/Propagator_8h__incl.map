@@ -1,0 +1,32 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Base/include/DetectorsBase/Propagator.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Base/include/DetectorsBase/Propagator.h">
+<area shape="rect" id="node3" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="123,578,399,605"/>
+<area shape="rect" id="node4" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="955,213,1158,255"/>
+<area shape="rect" id="node56" href="$d7/d99/DCA_8h.html" title="ReconstructionDataFormats\l/DCA.h" alt="" coords="893,660,1095,701"/>
+<area shape="rect" id="node57" href="$d6/db1/TrackLTIntegral_8h.html" title="Track Length and TOF integral. " alt="" coords="349,124,551,165"/>
+<area shape="rect" id="node58" href="$d9/da9/MatLayerCylSet_8h.html" title="Declarations for the wrapper for the set of cylindrical material layers. " alt="" coords="3781,481,3983,523"/>
+<area shape="rect" id="node5" href="$d2/d98/TrackParametrization_8h.html" title="ReconstructionDataFormats\l/TrackParametrization.h" alt="" coords="2250,392,2453,433"/>
+<area shape="rect" id="node55" href="$d3/d30/TrackParametrizationWithError_8h.html" title="ReconstructionDataFormats\l/TrackParametrizationWithError.h" alt="" coords="2093,303,2327,344"/>
+<area shape="rect" id="node6" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2369,846,2536,873"/>
+<area shape="rect" id="node14" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="1194,481,1397,523"/>
+<area shape="rect" id="node29" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="3530,757,3661,783"/>
+<area shape="rect" id="node34" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3370,846,3629,873"/>
+<area shape="rect" id="node51" href="$d8/d77/Primitive2D_8h.html" title="Declarations of 2D primitives: straight line (XY interval) and circle. " alt="" coords="2263,489,2440,515"/>
+<area shape="rect" id="node52" href="$d5/d08/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2PID_8h.html" title="ReconstructionDataFormats\l/PID.h" alt="" coords="349,481,551,523"/>
+<area shape="rect" id="node53" href="$d2/d97/TrackUtils_8h.html" title="ReconstructionDataFormats\l/TrackUtils.h" alt="" coords="3253,660,3455,701"/>
+<area shape="rect" id="node54" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="2465,489,2651,515"/>
+<area shape="rect" id="node19" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="1381,571,1609,612"/>
+<area shape="rect" id="node41" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1836,667,2016,694"/>
+<area shape="rect" id="node20" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="3080,846,3244,873"/>
+<area shape="rect" id="node24" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="539,660,767,701"/>
+<area shape="rect" id="node35" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="343,757,512,783"/>
+<area shape="rect" id="node30" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4213,928,4356,955"/>
+<area shape="rect" id="node33" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="3901,846,4055,873"/>
+<area shape="rect" id="node31" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="4083,1003,4281,1029"/>
+<area shape="rect" id="node32" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4305,1003,4470,1029"/>
+<area shape="rect" id="node39" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="453,846,647,873"/>
+<area shape="rect" id="node48" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3072,757,3252,783"/>
+<area shape="rect" id="node59" href="$da/df3/MatLayerCyl_8h.html" title="Declarations for single cylindrical material layer class. " alt="" coords="3963,667,4177,694"/>
+<area shape="rect" id="node60" href="$db/dff/FlatObject_8h.html" title="Definition of FlatObject class. " alt="" coords="3685,757,3785,783"/>
+<area shape="rect" id="node63" href="$d4/d1b/Ray_8h.html" title="DetectorsBase/Ray.h" alt="" coords="3735,578,3891,605"/>
+<area shape="rect" id="node62" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="3963,757,4145,783"/>
+</map>

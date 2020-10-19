@@ -1,0 +1,8 @@
+digraph "TrackSelection"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{TrackSelection\n||+ TrackSelection()\l+ IsSelected()\l+ SetTrackType()\l+ SetPtRange()\l+ SetEtaRange()\l+ SetRequireITSRefit()\l+ SetRequireTPCRefit()\l+ SetRequireGoldenChi2()\l+ SetMinNClustersTPC()\l+ SetMinNCrossedRowsTPC()\l+ SetMinNCrossedRowsOverFindable\lClustersTPC()\l+ SetMinNClustersITS()\l+ SetMaxChi2PerClusterTPC()\l+ SetMaxChi2PerClusterITS()\l+ SetMaxDcaXY()\l+ SetMaxDcaZ()\l+ SetMaxDcaXYPtDep()\l+ SetRequireHitsInITSLayers()\l+ SetRequireNoHitsInITSLayers()\l+ ResetITSRequirements()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

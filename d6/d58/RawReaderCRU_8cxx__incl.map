@@ -1,0 +1,32 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/RawReaderCRU.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/RawReaderCRU.cxx">
+<area shape="rect" id="node5" href="$df/d86/RawReaderCRU_8h.html" title="TPCReconstruction/RawReader\lCRU.h" alt="" coords="1861,199,2081,240"/>
+<area shape="rect" id="node19" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="884,288,1072,315"/>
+<area shape="rect" id="node59" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="2924,124,3067,151"/>
+<area shape="rect" id="node65" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="3403,124,3556,151"/>
+<area shape="rect" id="node25" href="$d4/dee/RAWDataHeader_8h.html" title="Definition of the RAW Data Header. " alt="" coords="953,445,1152,471"/>
+<area shape="rect" id="node39" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1845,527,2039,553"/>
+<area shape="rect" id="node41" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="2597,288,2719,315"/>
+<area shape="rect" id="node57" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="3118,363,3259,389"/>
+<area shape="rect" id="node58" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="2744,288,2913,315"/>
+<area shape="rect" id="node20" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="620,445,763,471"/>
+<area shape="rect" id="node23" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="5,527,172,553"/>
+<area shape="rect" id="node26" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="845,363,989,389"/>
+<area shape="rect" id="node29" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="311,437,543,479"/>
+<area shape="rect" id="node32" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="1119,363,1253,389"/>
+<area shape="rect" id="node21" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="765,527,962,553"/>
+<area shape="rect" id="node22" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="575,527,741,553"/>
+<area shape="rect" id="node31" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="247,527,501,553"/>
+<area shape="rect" id="node33" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1227,445,1396,471"/>
+<area shape="rect" id="node42" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="2853,527,3031,553"/>
+<area shape="rect" id="node54" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="2587,445,2721,471"/>
+<area shape="rect" id="node56" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="2782,363,2905,389"/>
+<area shape="rect" id="node43" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="2519,601,2706,628"/>
+<area shape="rect" id="node44" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3564,683,3744,710"/>
+<area shape="rect" id="node47" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2899,601,3079,628"/>
+<area shape="rect" id="node55" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="2548,527,2760,553"/>
+<area shape="rect" id="node60" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="3076,288,3240,315"/>
+<area shape="rect" id="node61" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="3083,206,3233,233"/>
+<area shape="rect" id="node62" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2730,601,2874,628"/>
+<area shape="rect" id="node63" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="3257,206,3443,233"/>
+<area shape="rect" id="node64" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="2783,206,2957,233"/>
+</map>

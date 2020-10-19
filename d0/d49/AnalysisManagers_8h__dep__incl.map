@@ -1,0 +1,92 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/AnalysisManagers.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/AnalysisManagers.h">
+<area shape="rect" id="node2" href="$d6/d57/AnalysisTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/include\l/Framework/AnalysisTask.h" alt="" coords="6519,124,6718,195"/>
+<area shape="rect" id="node3" href="$dc/def/CorrelationContainer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Core/src/Correlation\lContainer.cxx" alt="" coords="442,243,657,313"/>
+<area shape="rect" id="node4" href="$df/d4e/JetFinder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Core/src/JetFinder.cxx" alt="" coords="681,250,905,306"/>
+<area shape="rect" id="node5" href="$d9/dae/StepTHn_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Core/src/StepTHn.cxx" alt="" coords="929,250,1153,306"/>
+<area shape="rect" id="node6" href="$d1/d98/PIDResponse_8h.html" title="Set of tables, tasks and utilities to provide the interface between the analysis data model and the P..." alt="" coords="2467,243,2674,313"/>
+<area shape="rect" id="node9" href="$d3/d9f/HFCandidateCreator2Prong_8cxx.html" title="Reconstruction of heavy&#45;flavour 2&#45;prong decay candidates. " alt="" coords="5,480,235,551"/>
+<area shape="rect" id="node10" href="$da/d3e/HFCandidateCreator3Prong_8cxx.html" title="Reconstruction of heavy&#45;flavour 3&#45;prong decay candidates. " alt="" coords="259,480,488,551"/>
+<area shape="rect" id="node11" href="$d8/db0/HFD0CandidateSelector_8cxx.html" title="D0 selection task. " alt="" coords="513,480,719,551"/>
+<area shape="rect" id="node12" href="$d2/d43/HFTrackIndexSkimsCreator_8cxx.html" title="Pre&#45;selection of 2&#45;prong and 3&#45;prong secondary vertices of heavy&#45;flavour decay candidates. " alt="" coords="744,480,971,551"/>
+<area shape="rect" id="node13" href="$de/da9/taskD0_8cxx.html" title="D0 analysis task. " alt="" coords="995,480,1168,551"/>
+<area shape="rect" id="node14" href="$d5/d10/taskDPlus_8cxx.html" title="D± analysis task. " alt="" coords="1192,480,1365,551"/>
+<area shape="rect" id="node15" href="$d7/df6/jetfinderhf_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGJE\l/jetfinderhf.cxx" alt="" coords="1390,480,1559,551"/>
+<area shape="rect" id="node16" href="$d0/dd5/cascadefinder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/cascadefinder.cxx" alt="" coords="1584,480,1755,551"/>
+<area shape="rect" id="node17" href="$d1/db8/cascadeproducer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/cascadeproducer.cxx" alt="" coords="1779,480,1949,551"/>
+<area shape="rect" id="node18" href="$d5/d6e/lambdakzerofinder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/lambdakzerofinder.cxx" alt="" coords="1974,480,2149,551"/>
+<area shape="rect" id="node19" href="$d6/d2a/lambdakzeroproducer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/lambdakzeroproducer.cxx" alt="" coords="2173,480,2368,551"/>
+<area shape="rect" id="node21" href="$d4/d14/dileptonEE_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGDQ\l/dileptonEE.cxx" alt="" coords="2603,480,2779,551"/>
+<area shape="rect" id="node22" href="$d7/deb/dileptonMuMu_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGDQ\l/dileptonMuMu.cxx" alt="" coords="2803,480,2979,551"/>
+<area shape="rect" id="node23" href="$d9/d14/tableMaker_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGDQ\l/tableMaker.cxx" alt="" coords="3003,480,3179,551"/>
+<area shape="rect" id="node24" href="$d8/d04/tableMaker__pp_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGDQ\l/tableMaker_pp.cxx" alt="" coords="3203,480,3379,551"/>
+<area shape="rect" id="node25" href="$d8/d43/tableReader_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGDQ\l/tableReader.cxx" alt="" coords="3779,480,3955,551"/>
+<area shape="rect" id="node26" href="$d5/d53/pidTOF_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/pidTOF.cxx" alt="" coords="2732,369,2927,425"/>
+<area shape="rect" id="node27" href="$db/da2/pidTPC_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/pidTPC.cxx" alt="" coords="2951,369,3148,425"/>
+<area shape="rect" id="node28" href="$d2/d15/cascadeconsumer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/cascadeconsumer.cxx" alt="" coords="3172,361,3343,432"/>
+<area shape="rect" id="node29" href="$d4/d77/lambdakzeroconsumer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/lambdakzeroconsumer.cxx" alt="" coords="3367,361,3569,432"/>
+<area shape="rect" id="node30" href="$dc/d93/NucleiSpectraTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/NucleiSpectraTask.cxx" alt="" coords="3593,361,3765,432"/>
+<area shape="rect" id="node31" href="$df/d80/spectraTOF_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/spectraTOF.cxx" alt="" coords="3789,361,3960,432"/>
+<area shape="rect" id="node32" href="$da/db2/spectraTPC_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/spectraTPC.cxx" alt="" coords="3984,361,4155,432"/>
+<area shape="rect" id="node33" href="$d5/d75/centralityQa_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/centralityQa.cxx" alt="" coords="3155,250,3387,306"/>
+<area shape="rect" id="node34" href="$de/d41/centralityTable_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/centralityTable.cxx" alt="" coords="3411,250,3659,306"/>
+<area shape="rect" id="node35" href="$d9/df1/eventSelection_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/eventSelection.cxx" alt="" coords="3682,250,3931,306"/>
+<area shape="rect" id="node36" href="$dd/d91/eventSelectionQa_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/eventSelection\lQa.cxx" alt="" coords="3955,243,4178,313"/>
+<area shape="rect" id="node37" href="$d3/d6a/multiplicityQa_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/multiplicity\lQa.cxx" alt="" coords="4202,243,4401,313"/>
+<area shape="rect" id="node38" href="$d4/d23/multiplicityTable_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/multiplicity\lTable.cxx" alt="" coords="4425,243,4623,313"/>
+<area shape="rect" id="node39" href="$d9/d61/correlations_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGCF\l/correlations.cxx" alt="" coords="4647,243,4819,313"/>
+<area shape="rect" id="node40" href="$d8/dc5/correlationsFiltered_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGCF\l/correlationsFiltered.cxx" alt="" coords="4844,243,5023,313"/>
+<area shape="rect" id="node41" href="$d4/d39/correlationsMixed_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGCF\l/correlationsMixed.cxx" alt="" coords="5047,243,5219,313"/>
+<area shape="rect" id="node42" href="$dc/db0/dptdptcorrelations_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGCF\l/dptdptcorrelations.cxx" alt="" coords="5243,243,5415,313"/>
+<area shape="rect" id="node43" href="$d9/d63/filterCF_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGCF\l/filterCF.cxx" alt="" coords="5439,243,5611,313"/>
+<area shape="rect" id="node44" href="$d2/dc6/jetfinder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGJE\l/jetfinder.cxx" alt="" coords="5635,243,5805,313"/>
+<area shape="rect" id="node45" href="$dc/d89/jetfinderhadronrecoil_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGJE\l/jetfinderhadronrecoil.cxx" alt="" coords="5829,243,6017,313"/>
+<area shape="rect" id="node46" href="$d7/d05/jetskimming_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGJE\l/jetskimming.cxx" alt="" coords="6041,243,6210,313"/>
+<area shape="rect" id="node47" href="$da/d75/jetsubstructure_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGJE\l/jetsubstructure.cxx" alt="" coords="6234,243,6403,313"/>
+<area shape="rect" id="node48" href="$d0/d42/mcspectraefficiency_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/mcspectraefficiency.cxx" alt="" coords="6427,243,6610,313"/>
+<area shape="rect" id="node49" href="$df/dc5/raacharged_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGLF\l/raacharged.cxx" alt="" coords="6635,243,6805,313"/>
+<area shape="rect" id="node50" href="$dc/d19/dNdetaRun2Tracklets_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGMM\l/dNdetaRun2Tracklets.cxx" alt="" coords="6830,243,7021,313"/>
+<area shape="rect" id="node51" href="$d2/d9d/upcAnalysis_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/PWGUD\l/upcAnalysis.cxx" alt="" coords="7045,243,7221,313"/>
+<area shape="rect" id="node52" href="$d3/d6e/qaTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/qaTask.cxx" alt="" coords="7245,250,7443,306"/>
+<area shape="rect" id="node53" href="$d4/d5e/reducedEventAnalysis_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/reducedEvent\lAnalysis.cxx" alt="" coords="7467,243,7682,313"/>
+<area shape="rect" id="node54" href="$de/d2c/run2Matcher_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/run2Matcher.cxx" alt="" coords="7707,250,7939,306"/>
+<area shape="rect" id="node55" href="$d3/ddb/run3Matcher_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/run3Matcher.cxx" alt="" coords="7963,250,8195,306"/>
+<area shape="rect" id="node56" href="$d7/d26/timestamp_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/timestamp.cxx" alt="" coords="8219,250,8442,306"/>
+<area shape="rect" id="node57" href="$d6/db1/trackqa_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/trackqa.cxx" alt="" coords="8466,250,8667,306"/>
+<area shape="rect" id="node58" href="$db/d90/trackselection_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/trackselection.cxx" alt="" coords="8691,250,8935,306"/>
+<area shape="rect" id="node59" href="$dd/d1b/validation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/validation.cxx" alt="" coords="8959,250,9177,306"/>
+<area shape="rect" id="node60" href="$d1/d70/weakDecayIndices_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/weakDecayIndices.cxx" alt="" coords="9201,250,9476,306"/>
+<area shape="rect" id="node61" href="$dd/d00/aodreader_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/aodreader.cxx" alt="" coords="9501,243,9670,313"/>
+<area shape="rect" id="node62" href="$d0/dee/aodwriter_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/aodwriter.cxx" alt="" coords="9694,243,9863,313"/>
+<area shape="rect" id="node63" href="$d6/dcb/associatedExample_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/associatedExample.cxx" alt="" coords="9887,243,10067,313"/>
+<area shape="rect" id="node64" href="$d4/da6/ccdbaccess_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/ccdbaccess.cxx" alt="" coords="10091,243,10261,313"/>
+<area shape="rect" id="node65" href="$d4/dd5/collisionTracksIteration_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/collisionTracksIteration.cxx" alt="" coords="10285,243,10488,313"/>
+<area shape="rect" id="node66" href="$d5/d1b/configurableObjects_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/configurableObjects.cxx" alt="" coords="10513,243,10695,313"/>
+<area shape="rect" id="node67" href="$d2/df5/dynamicColumns_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/dynamicColumns.cxx" alt="" coords="10719,243,10889,313"/>
+<area shape="rect" id="node68" href="$d6/ddb/eventMixing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/eventMixing.cxx" alt="" coords="10913,243,11082,313"/>
+<area shape="rect" id="node69" href="$de/d6f/extendedColumns_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/extendedColumns.cxx" alt="" coords="11107,243,11277,313"/>
+<area shape="rect" id="node70" href="$d6/d77/filters_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/filters.cxx" alt="" coords="11302,243,11471,313"/>
+<area shape="rect" id="node71" href="$d2/d4e/fullTrackIteration_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/fullTrackIteration.cxx" alt="" coords="11495,243,11665,313"/>
+<area shape="rect" id="node72" href="$d7/d95/histHelpersTest_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/histHelpersTest.cxx" alt="" coords="11689,243,11858,313"/>
+<area shape="rect" id="node73" href="$dd/d94/histogramRegistry_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/histogramRegistry.cxx" alt="" coords="11883,243,12053,313"/>
+<area shape="rect" id="node74" href="$df/d90/histograms_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/histograms.cxx" alt="" coords="12078,243,12247,313"/>
+<area shape="rect" id="node75" href="$d7/d50/histogramsFullTracks_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/histogramsFullTracks.cxx" alt="" coords="12272,243,12461,313"/>
+<area shape="rect" id="node76" href="$dd/d06/histogramTrackSelection_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/histogramTrackSelection.cxx" alt="" coords="12485,243,12699,313"/>
+<area shape="rect" id="node77" href="$d7/d21/jetAnalysis_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/jetAnalysis.cxx" alt="" coords="12723,243,12893,313"/>
+<area shape="rect" id="node78" href="$dd/d84/mcHistograms_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/mcHistograms.cxx" alt="" coords="12917,243,13086,313"/>
+<area shape="rect" id="node79" href="$de/d4b/muonIteration_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/muonIteration.cxx" alt="" coords="13110,243,13279,313"/>
+<area shape="rect" id="node80" href="$d7/d10/newCollections_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/newCollections.cxx" alt="" coords="13303,243,13473,313"/>
+<area shape="rect" id="node81" href="$d3/d45/outputs_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/outputs.cxx" alt="" coords="13497,243,13666,313"/>
+<area shape="rect" id="node82" href="$dc/dae/partitions_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/partitions.cxx" alt="" coords="13690,243,13859,313"/>
+<area shape="rect" id="node83" href="$d4/ded/trackCollectionIteration_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/trackCollectionIteration.cxx" alt="" coords="13883,243,14090,313"/>
+<area shape="rect" id="node84" href="$db/d7e/trackIteration_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/trackIteration.cxx" alt="" coords="14114,243,14283,313"/>
+<area shape="rect" id="node85" href="$d0/da7/tracksCombinations_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/tracksCombinations.cxx" alt="" coords="14307,243,14490,313"/>
+<area shape="rect" id="node86" href="$d7/d67/weakDecayIteration_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/weakDecayIteration.cxx" alt="" coords="14515,243,14699,313"/>
+<area shape="rect" id="node87" href="$dc/d22/ZDCVZeroIteration_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tutorials/src\l/ZDCVZeroIteration.cxx" alt="" coords="14723,243,14898,313"/>
+<area shape="rect" id="node88" href="$d9/d09/test__AnalysisTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_AnalysisTask.cxx" alt="" coords="14922,243,15113,313"/>
+<area shape="rect" id="node89" href="$d2/d45/test__GroupSlicer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_GroupSlicer.cxx" alt="" coords="15137,243,15327,313"/>
+<area shape="rect" id="node90" href="$d9/dab/test__IndexBuilder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_IndexBuilder.cxx" alt="" coords="15351,243,15542,313"/>
+<area shape="rect" id="node91" href="$d1/d61/o2AnalysisTaskExample_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2AnalysisTaskExample.cxx" alt="" coords="15566,243,15799,313"/>
+<area shape="rect" id="node7" href="$d8/d95/HFSecondaryVertex_8h.html" title="Definitions of tables of heavy&#45;flavour decay candidates. " alt="" coords="1532,361,1756,432"/>
+<area shape="rect" id="node8" href="$d5/d51/aodDataModelGraph_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/DataModel/src\l/aodDataModelGraph.cxx" alt="" coords="2392,480,2579,551"/>
+<area shape="rect" id="node20" href="$d4/dbd/ReducedInfoTables_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/DataModel/include\l/Analysis/ReducedInfoTables.h" alt="" coords="2388,361,2607,432"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/src/Encoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/src/Encoder.cxx">
+<area shape="rect" id="node2" href="$d5/d90/Detectors_2TOF_2reconstruction_2include_2TOFReconstruction_2Encoder_8h.html" title="TOFReconstruction/Encoder.h" alt="" coords="1155,288,1365,315"/>
+<area shape="rect" id="node10" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="4445,802,4699,829"/>
+<area shape="rect" id="node12" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="1627,623,1815,650"/>
+<area shape="rect" id="node43" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="459,623,672,650"/>
+<area shape="rect" id="node54" href="$d4/d36/Detectors_2TOF_2reconstruction_2include_2TOFReconstruction_2Decoder_8h.html" title="TOFReconstruction/Decoder.h" alt="" coords="2043,124,2255,151"/>
+<area shape="rect" id="node75" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="3902,527,4082,568"/>
+<area shape="rect" id="node83" href="$d7/d61/NameConf_8h.html" title="Definition of the Names Generator class. " alt="" coords="3630,527,3858,568"/>
+<area shape="rect" id="node6" href="$d6/de8/RawDataFormat_8h.html" title="TOF raw data format. " alt="" coords="594,363,846,389"/>
+<area shape="rect" id="node8" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="2514,445,2635,471"/>
+<area shape="rect" id="node11" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="1315,534,1501,561"/>
+<area shape="rect" id="node17" href="$d4/dee/RAWDataHeader_8h.html" title="Definition of the RAW Data Header. " alt="" coords="1307,802,1506,829"/>
+<area shape="rect" id="node44" href="$d1/d90/Detectors_2TOF_2base_2include_2TOFBase_2Digit_8h.html" title="TOFBase/Digit.h" alt="" coords="2087,363,2214,389"/>
+<area shape="rect" id="node48" href="$da/d08/RawFileWriter_8h.html" title="Utility class to write detectors data to (multiple) raw data file(s) respecting CRU format..." alt="" coords="755,445,973,471"/>
+<area shape="rect" id="node21" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="2149,705,2381,747"/>
+<area shape="rect" id="node33" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="709,705,907,747"/>
+<area shape="rect" id="node40" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="987,616,1184,657"/>
+<area shape="rect" id="node13" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4619,891,4762,918"/>
+<area shape="rect" id="node16" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2006,802,2173,829"/>
+<area shape="rect" id="node18" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="1627,713,1771,739"/>
+<area shape="rect" id="node24" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="246,713,381,739"/>
+<area shape="rect" id="node14" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="4489,973,4687,1000"/>
+<area shape="rect" id="node15" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4711,973,4876,1000"/>
+<area shape="rect" id="node25" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="262,802,431,829"/>
+<area shape="rect" id="node31" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="316,891,511,918"/>
+<area shape="rect" id="node45" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2057,445,2337,471"/>
+<area shape="rect" id="node55" href="$da/d2e/CompressedDataFormat_8h.html" title="DataFormatsTOF/Compressed\lDataFormat.h" alt="" coords="1541,199,1757,240"/>
+<area shape="rect" id="node56" href="$dd/d77/Strip_8h.html" title="TOFBase/Strip.h" alt="" coords="2340,288,2465,315"/>
+<area shape="rect" id="node70" href="$d0/de5/WindowFiller_8h.html" title="TOFBase/WindowFiller.h" alt="" coords="2187,206,2365,233"/>
+<area shape="rect" id="node60" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3199,713,3379,739"/>
+<area shape="rect" id="node67" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="4089,802,4269,829"/>
+<area shape="rect" id="node77" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="4081,623,4249,650"/>
+<area shape="rect" id="node78" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="3622,616,3850,657"/>
+<area shape="rect" id="node80" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="4851,713,4981,739"/>
+<area shape="rect" id="node81" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="5107,802,5261,829"/>
+<area shape="rect" id="node82" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="4773,802,5032,829"/>
+<area shape="rect" id="node84" href="$d1/d1e/Common_2Utils_2include_2CommonUtils_2StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="3096,623,3291,650"/>
+</map>

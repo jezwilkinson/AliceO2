@@ -1,0 +1,41 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/IOUtils.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/IOUtils.cxx">
+<area shape="rect" id="node2" href="$da/db1/ITS_2tracking_2include_2ITStracking_2IOUtils_8h.html" title="ITStracking/IOUtils.h" alt="" coords="2715,124,2869,151"/>
+<area shape="rect" id="node19" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="1057,474,1233,501"/>
+<area shape="rect" id="node32" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="700,474,831,501"/>
+<area shape="rect" id="node45" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2645,288,2814,329"/>
+<area shape="rect" id="node46" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="4841,377,5010,419"/>
+<area shape="rect" id="node69" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="4364,474,4615,501"/>
+<area shape="rect" id="node70" href="$d1/d08/TopologyDictionary_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="4219,288,4434,329"/>
+<area shape="rect" id="node72" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="4561,385,4714,411"/>
+<area shape="rect" id="node75" href="$d9/dfb/ITSMFT_2ITS_2base_2include_2ITSBase_2GeometryTGeo_8h.html" title="ITSBase/GeometryTGeo.h" alt="" coords="5221,124,5411,151"/>
+<area shape="rect" id="node87" href="$d4/d05/json_8h.html" title="ITStracking/json.h" alt="" coords="7175,385,7313,411"/>
+<area shape="rect" id="node7" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="1899,295,2138,322"/>
+<area shape="rect" id="node16" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="905,385,1103,411"/>
+<area shape="rect" id="node25" href="$dc/d8d/ITS_2tracking_2include_2ITStracking_2ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="2645,206,2814,233"/>
+<area shape="rect" id="node51" href="$d3/dc8/Label_8h.html" title="ITStracking/Label.h" alt="" coords="5339,206,5485,233"/>
+<area shape="rect" id="node53" href="$d4/d5a/ITS_2tracking_2include_2ITStracking_2Road_8h.html" title="ITStracking/Road.h" alt="" coords="355,385,498,411"/>
+<area shape="rect" id="node54" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="2940,295,3188,322"/>
+<area shape="rect" id="node55" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="4232,199,4435,240"/>
+<area shape="rect" id="node8" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2124,385,2404,411"/>
+<area shape="rect" id="node11" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="2428,377,2660,419"/>
+<area shape="rect" id="node9" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2143,474,2310,501"/>
+<area shape="rect" id="node14" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="1865,474,2119,501"/>
+<area shape="rect" id="node20" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="1219,556,1400,583"/>
+<area shape="rect" id="node21" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="178,631,321,657"/>
+<area shape="rect" id="node22" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="48,705,245,732"/>
+<area shape="rect" id="node23" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="269,705,435,732"/>
+<area shape="rect" id="node29" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="1229,295,1385,322"/>
+<area shape="rect" id="node36" href="$d3/d6f/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Vertex_8h.html" title="ReconstructionDataFormats\l/Vertex.h" alt="" coords="2417,288,2620,329"/>
+<area shape="rect" id="node30" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="607,385,780,411"/>
+<area shape="rect" id="node33" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="414,556,567,583"/>
+<area shape="rect" id="node35" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="643,556,901,583"/>
+<area shape="rect" id="node37" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3355,385,3535,411"/>
+<area shape="rect" id="node44" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3837,474,4017,501"/>
+<area shape="rect" id="node60" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="3967,288,4195,329"/>
+<area shape="rect" id="node61" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="5086,377,5314,419"/>
+<area shape="rect" id="node63" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="5717,474,5886,501"/>
+<area shape="rect" id="node71" href="$de/dc1/ClusterPattern_8h.html" title="DataFormatsITSMFT/Cluster\lPattern.h" alt="" coords="3953,377,4156,419"/>
+<area shape="rect" id="node76" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="6053,295,6307,322"/>
+<area shape="rect" id="node85" href="$d4/d5c/ITSMFT_2common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="5561,206,5775,233"/>
+<area shape="rect" id="node83" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="1917,385,2099,411"/>
+</map>

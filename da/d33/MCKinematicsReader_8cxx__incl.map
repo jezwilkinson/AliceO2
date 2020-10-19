@@ -1,0 +1,25 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Steer/src/MCKinematicsReader.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Steer/src/MCKinematicsReader.cxx">
+<area shape="rect" id="node2" href="$d7/d61/NameConf_8h.html" title="Definition of the Names Generator class. " alt="" coords="331,273,559,315"/>
+<area shape="rect" id="node29" href="$dd/de5/MCKinematicsReader_8h.html" title="Steer/MCKinematicsReader.h" alt="" coords="2021,109,2230,136"/>
+<area shape="rect" id="node52" href="$d2/d1f/MCEventHeader_8h.html" title="SimulationDataFormat\l/MCEventHeader.h" alt="" coords="2477,184,2646,225"/>
+<area shape="rect" id="node3" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="1194,363,1422,404"/>
+<area shape="rect" id="node27" href="$d1/d1e/Common_2Utils_2include_2CommonUtils_2StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="5,370,200,397"/>
+<area shape="rect" id="node12" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="647,452,777,479"/>
+<area shape="rect" id="node20" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1069,452,1238,479"/>
+<area shape="rect" id="node14" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="334,601,477,628"/>
+<area shape="rect" id="node17" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="597,527,750,553"/>
+<area shape="rect" id="node19" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="315,527,573,553"/>
+<area shape="rect" id="node15" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="204,676,401,703"/>
+<area shape="rect" id="node16" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="425,676,591,703"/>
+<area shape="rect" id="node25" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1444,527,1639,553"/>
+<area shape="rect" id="node30" href="$d1/def/DigitizationContext_8h.html" title="SimulationDataFormat\l/DigitizationContext.h" alt="" coords="2009,184,2178,225"/>
+<area shape="rect" id="node43" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="843,273,1013,315"/>
+<area shape="rect" id="node51" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1694,184,1863,225"/>
+<area shape="rect" id="node34" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1977,273,2209,315"/>
+<area shape="rect" id="node38" href="$d4/d5f/BunchFilling_8h.html" title="CommonDataFormat/BunchFilling.h" alt="" coords="1334,281,1586,307"/>
+<area shape="rect" id="node39" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="1773,273,1953,315"/>
+<area shape="rect" id="node35" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2202,370,2369,397"/>
+<area shape="rect" id="node37" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="1681,370,1935,397"/>
+<area shape="rect" id="node41" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="1959,370,2127,397"/>
+<area shape="rect" id="node54" href="$d6/d9d/MCEventStats_8h.html" title="SimulationDataFormat\l/MCEventStats.h" alt="" coords="2783,273,2953,315"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/test/testTPCParameters.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/test/testTPCParameters.cxx">
+<area shape="rect" id="node3" href="$db/dad/ParameterDetector_8h.html" title="Definition of the parameter class for the detector. " alt="" coords="1797,124,2014,151"/>
+<area shape="rect" id="node20" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="1973,288,2171,329"/>
+<area shape="rect" id="node27" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="2355,199,2552,240"/>
+<area shape="rect" id="node31" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="2038,124,2271,151"/>
+<area shape="rect" id="node33" href="$de/d2b/ParameterGEM_8h.html" title="Definition of the parameter class for the GEM stack. " alt="" coords="1582,124,1773,151"/>
+<area shape="rect" id="node34" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="2296,124,2483,151"/>
+<area shape="rect" id="node35" href="$d4/dee/SimConfig_8h.html" title="SimConfig/SimConfig.h" alt="" coords="2560,124,2731,151"/>
+<area shape="rect" id="node5" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="897,206,1074,233"/>
+<area shape="rect" id="node7" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="761,295,948,322"/>
+<area shape="rect" id="node8" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="154,385,334,411"/>
+<area shape="rect" id="node11" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1023,295,1203,322"/>
+<area shape="rect" id="node32" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="2027,206,2280,233"/>
+</map>
